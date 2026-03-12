@@ -130,3 +130,365 @@ Response: Large language models generate text based on probability.
 Instruction: Explain inference in machine learning
 Response: Inference is the process of generating predictions from a trained model.
 
+Instruction: Explain what an operating system does
+Response: An operating system manages hardware and software resources on a computer.
+
+Instruction: What is multitasking in operating systems
+Response: Multitasking allows multiple programs to run at the same time.
+
+Instruction: Explain virtual memory
+Response: Virtual memory allows a system to use disk space as additional memory.
+
+Instruction: Explain process scheduling
+Response: Process scheduling determines which program runs on the CPU.
+
+Instruction: Explain threads in computing
+Response: Threads are smaller units of execution within a process.
+
+Instruction: What is a shell in Linux
+Response: A shell is a command line interface used to interact with the operating system.
+
+Instruction: What is Bash
+Response: Bash is a popular command line shell used in Linux systems.
+
+Instruction: Explain open source software
+Response: Open source software allows users to view and modify its source code.
+
+Instruction: Explain version control
+Response: Version control tracks changes to files over time.
+
+Instruction: What is GitHub
+Response: GitHub is a platform used to host and collaborate on code repositories.
+
+Instruction: Explain programming languages
+Response: Programming languages allow humans to write instructions for computers.
+
+Instruction: What is Python
+Response: Python is a high level programming language known for readability.
+
+Instruction: What is Rust used for
+Response: Rust is used for systems programming where safety and performance are important.
+
+Instruction: Explain memory safety
+Response: Memory safety prevents programs from accessing invalid memory.
+
+Instruction: Explain pointers
+Response: Pointers store memory addresses of other variables.
+
+Instruction: Explain data structures
+Response: Data structures organize data for efficient access and modification.
+
+Instruction: What is an array
+Response: An array stores multiple values of the same type in contiguous memory.
+
+Instruction: What is a linked list
+Response: A linked list stores elements where each node points to the next node.
+
+Instruction: What is a stack
+Response: A stack is a data structure that follows last in first out order.
+
+Instruction: What is a queue
+Response: A queue is a data structure that follows first in first out order.
+
+Instruction: Explain algorithms
+Response: Algorithms are step by step procedures used to solve problems.
+
+Instruction: What is time complexity
+Response: Time complexity measures how long an algorithm takes to run.
+
+Instruction: Explain Big O notation
+Response: Big O notation describes how algorithm performance scales with input size.
+
+Instruction: What is recursion
+Response: Recursion occurs when a function calls itself.
+
+Instruction: What is a web server
+Response: A web server delivers web pages to users through HTTP.
+
+Instruction: What is a browser
+Response: A browser is a program used to access websites.
+
+Instruction: Explain HTML
+Response: HTML defines the structure of web pages.
+
+Instruction: Explain CSS
+Response: CSS controls the visual appearance of web pages.
+
+Instruction: Explain JavaScript
+Response: JavaScript adds interactivity to websites.
+
+Instruction: What is full stack development
+Response: Full stack development involves both frontend and backend programming.
+
+Instruction: Explain REST APIs
+Response: REST APIs allow communication between services using HTTP requests.
+
+Instruction: Explain JSON
+Response: JSON is a lightweight format used for data exchange.
+
+Instruction: Explain YAML
+Response: YAML is a human readable data serialization format.
+
+Instruction: What is machine learning training data
+Response: Training data is the dataset used to teach machine learning models.
+
+Instruction: Explain model parameters
+Response: Model parameters are values learned during training.
+
+Instruction: Explain training loss
+Response: Training loss measures how far predictions are from correct answers.
+
+Instruction: Explain overfitting
+Response: Overfitting occurs when a model memorizes training data instead of learning patterns.
+
+Instruction: Explain underfitting
+Response: Underfitting occurs when a model fails to learn patterns from data.
+
+Instruction: Explain dataset preprocessing
+Response: Dataset preprocessing prepares raw data for model training.
+
+Instruction: Explain token vocabulary
+Response: A token vocabulary is the set of tokens known by a tokenizer.
+
+Instruction: Explain sequence length
+Response: Sequence length is the number of tokens processed in a single input.
+
+Instruction: Explain inference speed
+Response: Inference speed measures how fast a model generates predictions.
+
+Instruction: What is model quantization
+Response: Quantization reduces model size by lowering numerical precision.
+
+Instruction: Explain fine tuning
+Response: Fine tuning trains a pretrained model on a specific dataset.
+
+Instruction: Explain artificial intelligence
+Response: Artificial intelligence enables machines to perform tasks requiring human intelligence.
+
+Instruction: Explain supervised learning
+Response: Supervised learning trains models using labeled examples.
+
+Instruction: Explain unsupervised learning
+Response: Unsupervised learning finds patterns in unlabeled data.
+
+Instruction: Explain reinforcement learning
+Response: Reinforcement learning trains agents using rewards and penalties.
+
+Instruction: What is computer vision
+Response: Computer vision allows machines to interpret images and videos.
+
+Instruction: What is speech recognition
+Response: Speech recognition converts spoken language into text.
+
+Instruction: Explain robotics
+Response: Robotics combines hardware and software to build intelligent machines.
+
+Instruction: Explain what a computer program is
+Response: A computer program is a set of instructions executed by a computer.
+
+Instruction: What is machine code
+Response: Machine code is the binary instructions understood directly by a CPU.
+
+Instruction: Explain assembly language
+Response: Assembly language is a low level programming language close to machine code.
+
+Instruction: What is source code
+Response: Source code is the human readable form of a program.
+
+Instruction: Explain software development
+Response: Software development is the process of creating and maintaining software.
+
+Instruction: What is debugging
+Response: Debugging is the process of finding and fixing errors in code.
+
+Instruction: Explain software testing
+Response: Software testing checks whether a program works correctly.
+
+Instruction: What is a bug in software
+Response: A bug is an error or flaw in a computer program.
+
+Instruction: Explain software engineering
+Response: Software engineering applies engineering principles to software development.
+
+Instruction: What is object oriented programming
+Response: Object oriented programming organizes code using objects and classes.
+
+Instruction: What is a class in programming
+Response: A class defines the structure and behavior of objects.
+
+Instruction: What is an object in programming
+Response: An object is an instance of a class.
+
+Instruction: Explain encapsulation
+Response: Encapsulation hides internal details of an object.
+
+Instruction: Explain inheritance in programming
+Response: Inheritance allows a class to reuse properties of another class.
+
+Instruction: Explain polymorphism
+Response: Polymorphism allows different objects to respond to the same method.
+
+Instruction: What is functional programming
+Response: Functional programming treats computation as evaluation of functions.
+
+Instruction: Explain immutability
+Response: Immutability means data cannot be modified after creation.
+
+Instruction: Explain concurrency
+Response: Concurrency allows multiple tasks to run during overlapping time periods.
+
+Instruction: Explain parallel computing
+Response: Parallel computing performs multiple computations simultaneously.
+
+Instruction: What is a distributed system
+Response: A distributed system consists of multiple computers working together.
+
+Instruction: Explain load balancing
+Response: Load balancing distributes work across multiple servers.
+
+Instruction: What is caching
+Response: Caching stores frequently used data for faster access.
+
+Instruction: Explain latency
+Response: Latency is the delay before data begins transferring.
+
+Instruction: Explain bandwidth
+Response: Bandwidth is the maximum rate of data transfer.
+
+Instruction: What is packet switching
+Response: Packet switching divides data into packets for transmission across networks.
+
+Instruction: Explain DNS
+Response: DNS translates domain names into IP addresses.
+
+Instruction: What is a firewall
+Response: A firewall controls network traffic based on security rules.
+
+Instruction: Explain authentication
+Response: Authentication verifies the identity of a user.
+
+Instruction: Explain authorization
+Response: Authorization determines what actions a user can perform.
+
+Instruction: Explain digital signatures
+Response: Digital signatures verify the authenticity of digital messages.
+
+Instruction: What is cryptography
+Response: Cryptography protects information using mathematical techniques.
+
+Instruction: Explain symmetric encryption
+Response: Symmetric encryption uses the same key for encryption and decryption.
+
+Instruction: Explain public key encryption
+Response: Public key encryption uses separate public and private keys.
+
+Instruction: Explain blockchain
+Response: Blockchain is a distributed ledger used to record transactions securely.
+
+Instruction: What is cryptocurrency
+Response: Cryptocurrency is digital money secured by cryptography.
+
+Instruction: Explain artificial neural networks
+Response: Artificial neural networks are computing systems inspired by the brain.
+
+Instruction: Explain activation functions
+Response: Activation functions introduce nonlinearity into neural networks.
+
+Instruction: Explain training epochs
+Response: An epoch is one full pass through the training dataset.
+
+Instruction: Explain batch size
+Response: Batch size is the number of samples processed in one training step.
+
+Instruction: Explain stochastic gradient descent
+Response: Stochastic gradient descent updates model weights using small data batches.
+
+Instruction: Explain model evaluation
+Response: Model evaluation measures how well a trained model performs.
+
+Instruction: Explain accuracy in machine learning
+Response: Accuracy measures the proportion of correct predictions.
+
+Instruction: Explain precision in machine learning
+Response: Precision measures how many predicted positives are correct.
+
+Instruction: Explain recall in machine learning
+Response: Recall measures how many actual positives are detected.
+
+Instruction: Explain F1 score
+Response: F1 score balances precision and recall.
+
+Instruction: What is a dataset
+Response: A dataset is a collection of structured or unstructured data.
+
+Instruction: Explain data labeling
+Response: Data labeling assigns meaningful tags to data samples.
+
+Instruction: Explain feature engineering
+Response: Feature engineering creates useful inputs for machine learning models.
+
+Instruction: Explain dimensionality reduction
+Response: Dimensionality reduction decreases the number of input features.
+
+Instruction: Explain clustering
+Response: Clustering groups similar data points together.
+
+Instruction: Explain classification
+Response: Classification assigns input data to predefined categories.
+
+Instruction: Explain regression
+Response: Regression predicts continuous numerical values.
+
+Instruction: Explain recommendation systems
+Response: Recommendation systems suggest items based on user behavior.
+
+Instruction: Explain anomaly detection
+Response: Anomaly detection identifies unusual data patterns.
+
+Instruction: Explain edge computing
+Response: Edge computing processes data closer to the source device.
+
+Instruction: Explain Internet of Things
+Response: Internet of Things connects physical devices to the internet.
+
+Instruction: What is embedded systems
+Response: Embedded systems are computers designed for specific tasks.
+
+Instruction: Explain firmware
+Response: Firmware is software programmed into hardware devices.
+
+Instruction: Explain virtualization
+Response: Virtualization allows multiple operating systems to run on one machine.
+
+Instruction: Explain hypervisors
+Response: Hypervisors manage virtual machines on a host system.
+
+Instruction: Explain continuous integration
+Response: Continuous integration automatically tests code changes.
+
+Instruction: Explain continuous deployment
+Response: Continuous deployment automatically releases software updates.
+
+Instruction: Explain software architecture
+Response: Software architecture defines the structure of a software system.
+
+Instruction: Explain microservices
+Response: Microservices divide applications into small independent services.
+
+Instruction: Explain monolithic architecture
+Response: Monolithic architecture builds an application as a single unit.
+
+Instruction: Explain data pipelines
+Response: Data pipelines move and process data between systems.
+
+Instruction: Explain logging in software
+Response: Logging records events that occur during program execution.
+
+Instruction: Explain monitoring in systems
+Response: Monitoring tracks system performance and health.
+
+Instruction: Explain scalability
+Response: Scalability is the ability of a system to handle growth.
+
+Instruction: Explain fault tolerance
+Response: Fault tolerance allows systems to continue operating after failures.

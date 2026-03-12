@@ -3,7 +3,7 @@ import numpy as np
 
 # Load the trained tokenizer
 sp = spm.SentencePieceProcessor()
-sp.load("tokenize/tokenizer.model")
+sp.load("tokenizer/data/tokenizer.model")
 
 # Encode the text
 with open("data/dataset.txt", "r", encoding="utf-8") as f:
