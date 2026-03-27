@@ -12,7 +12,6 @@ def trainTokenizer(DATASET_LOCATION, TOKENIZER_PREFIX, VOCAB_SIZE):
         eos_id=2,
         pad_id=0,
         unk_id=3,
-        hard_vocab_limit=False
     )
 
     print("Tokenizer trained!")
