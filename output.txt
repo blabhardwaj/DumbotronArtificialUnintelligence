@@ -1,0 +1,8 @@
+Loaded weights from checkpoints/model_final.pt
+
+Prompt: 'hi'
+Generating...
+Output: , you shall And a;;, I all: the your,s your, would would, And hims I:. of I the the: I in the he for the a not the. you. to man's, that the
+
+context shape: torch.Size([1, 51])
+logits shape: torch.Size([1, 50, 3000])
