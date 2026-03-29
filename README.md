@@ -12,6 +12,7 @@ A deliberately tiny LLM (≈5K – 3M parameters approx) built with **PyTorch** 
 >
 >  You can also check those works in respective branches in this repo itself
 > - [BBI's Version](https://github.com/BBICorporation/DumbotronArtificialUnintelligence/tree/bbiVersion)
+> - [Nishant's Version](https://github.com/BBICorporation/DumbotronArtificialUnintelligence/tree/premchand)
 
 ---
 
